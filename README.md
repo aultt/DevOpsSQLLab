@@ -10,4 +10,3 @@ DevOps Pipeline Templates to leverage ARM templates to build out a fully functio
 6. GitHub Repository for Domain
 7. GitHub Repository for Workstation
 8. GitHub Repository for SQLServerSingle
-9. 
